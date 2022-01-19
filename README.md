@@ -22,7 +22,7 @@ I am a frontend engineer with an experience of 1 year. I have hands on experienc
 
 I worked on features depending on the requirements of business and also take care of bug fixes raised by QA Engineer.
 
-### **FRONTEND DEVELOPER**
+### **FRONTEND ENGINEER**
 ### IODATALABS.PVT.LTD
 
 Worked as an individual to rewamp volvo website and also made features for existing websites using Javascript,React,and vue.js.
